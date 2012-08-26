@@ -27,7 +27,7 @@ body {
 
 
 h1 { font-family: "Economica" !important; font-size: 36px !important; font-weight: 700; text-shadow: 0px 1px 1px #fefefe; }
-h2 { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400; color: #FF40AC !important;}
+h2 { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400 !important; color: #FF40AC !important; line-height: 0.5 !important;}
 
 p { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400;}
 
