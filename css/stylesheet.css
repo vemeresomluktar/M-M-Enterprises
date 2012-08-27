@@ -30,6 +30,11 @@ h2 { font-family: "Quicksand" !important; font-size: 16px !important; font-weigh
 h3 { font-family: "Economica" !important; font-size: 24px !important; font-weight: 700; }
 p { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400;}
 
+@baseFontFamily { font-family: "Quicksand" !important; }
+@baseFontSize { font-size: 16px !important; }
+@baseLineHeight { line-height: 1 !important; }
+@linkColor { color: #40b8ff; }
+
 .fixed-width {
 	max-width: 940px; }
 
@@ -46,7 +51,8 @@ footer {
 	background-image: url('../img/background-footer.png');
 	color: white; 
 	padding: 40px 0px 40px 0px; 
-	-moz-box-shadow: inset 0px 5px 5px #282828;
-	-webkit-box-shadow: inset 0px 5px 5px #282828;
-	box-shadow: inset 0px 5px 5px #282828; }
+	margin: 40px 0px 0px 0px; 
+	-moz-box-shadow: inset 0px 5px 20px #282828;
+	-webkit-box-shadow: inset 0px 5px 20px #282828;
+	box-shadow: inset 0px 5px 20px #282828; }
 	
