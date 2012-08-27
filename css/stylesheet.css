@@ -31,6 +31,8 @@ h3 { font-family: "Economica" !important; font-size: 24px !important; font-weigh
 h4 { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400 !important; color: #FF40AC !important; line-height: 1 !important; margin-top: 20px !important; margin-bottom: 10px !important;}
 p { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400;}
 
+ul {font-family: "Quicksand" !important;}
+
 @baseFontFamily { font-family: "Quicksand" !important; }
 @baseFontSize { font-size: 16px !important; }
 @baseLineHeight { line-height: 1 !important; }
