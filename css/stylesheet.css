@@ -26,17 +26,29 @@ body {
 	padding: 0px 0px 0px 0px; }
 
 h1 { font-family: "Economica" !important; font-size: 36px !important; font-weight: 700; text-shadow: 0px 1px 1px #fefefe; }
-h2 { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400 !important; color: #FF40AC !important; line-height: 1 !important; margin-top: 20px !important; margin-bottom: 10px !important;}
+h2 { font-family: "Economica" !important; font-size: 30px !important; font-weight: 700; text-shadow: 0px 1px 1px #fefefe; }
 h3 { font-family: "Economica" !important; font-size: 24px !important; font-weight: 700; }
+h4 { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400 !important; color: #FF40AC !important; line-height: 1 !important; margin-top: 20px !important; margin-bottom: 10px !important;}
 p { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400;}
 
 @baseFontFamily { font-family: "Quicksand" !important; }
 @baseFontSize { font-size: 16px !important; }
 @baseLineHeight { line-height: 1 !important; }
-@linkColor { color: #40b8ff; }
+
+address { font-family: "Quicksand" !important; font-size: 16px !important; }
+address a { color: #40b8ff !important; }
 
 .fixed-width {
 	max-width: 940px; }
+
+.thumbnail {
+	background-color: rgba(255, 255, 255, 0.3) }
+
+#sign {
+	min-height: 200px;
+	background-image: url('../img/JWsign2.png');
+	background-repeat: no-repeat; 
+	background-size: 100%; }
 
 section {
 	padding: 60px 0px 0px 0px; }
