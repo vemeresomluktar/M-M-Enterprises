@@ -30,9 +30,8 @@ h2 { font-family: "Quicksand" !important; font-size: 16px !important; font-weigh
 h3 { font-family: "Economica" !important; font-size: 24px !important; font-weight: 700; }
 p { font-family: "Quicksand" !important; font-size: 16px !important; font-weight: 400;}
 
-#container {
-	width: 800px; height: 1000px;
-	padding: 0px; margin: 0px auto 0px auto; }
+.fixed-width {
+	max-width: 940px; }
 
 section {
 	padding: 60px 0px 0px 0px; }
